@@ -14,6 +14,6 @@ For more information on the corpora please see: Shereen Oraby, Vrindavan Harriso
 
 Each **notebook** has a different part of the **project pipeline**:
 
-1.   nb_1_sarcasm_.ipynb: data loading and exploration
-2.   nb_2_sarcasm_.ipynb: data preprocessing and feature engineering
-3.   nb_3_sarcasm_.ipynb: model training and some partial results
+1.   **nb_1_sarcasm_.ipynb**: data loading and exploration
+2.   **nb_2_sarcasm_.ipynb**: data preprocessing and feature engineering
+3.   **nb_3_sarcasm_.ipynb**: model training and some partial results
