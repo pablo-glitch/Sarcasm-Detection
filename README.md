@@ -12,8 +12,11 @@ It should be noted something important: the documents in each of these corpus ha
 For more information on the corpora please see: Shereen Oraby, Vrindavan Harrison, Lena Reed, Ernesto Hernandez, Ellen Riloff and Marilyn Walker. "Creating and Characterizing a Diverse Corpus of Sarcasm in Dialogue." In The 17th Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL), Los Angeles, California, USA, 2016. Web: https://nlds.soe.ucsc.edu/sarcasm2
 
 
-Each **notebook** has a different part of the **project pipeline**:
+Each **notebook** has inside of it a different part of the **project pipeline**:
 
 1.   **nb_1_sarcasm_.ipynb**: data loading and exploration
 2.   **nb_2_sarcasm_.ipynb**: data preprocessing and feature engineering
 3.   **nb_3_sarcasm_.ipynb**: model training and some partial results
+
+
+You can see the **video presentation** of the project in the next link: https://youtu.be/U-XsM2GYLUQ (spanish only, sry!) 
