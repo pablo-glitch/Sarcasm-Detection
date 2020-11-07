@@ -19,4 +19,4 @@ Each **notebook** has inside of it a different part of the **project pipeline**:
 3.   **nb_3_sarcasm_.ipynb**: model training and some partial results
 
 
-You can see the **video presentation** of the project in the next link: https://youtu.be/U-XsM2GYLUQ (spanish only, sry!) 
+You can see the **video presentation** of the project on: https://youtu.be/U-XsM2GYLUQ (spanish only, sry!) 
